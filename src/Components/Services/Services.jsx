@@ -76,7 +76,7 @@ const Services = () => {
             emoji={Humble}
             heading={"Tools"}
             detail={
-              "Bootstrap, React, React Native, Tailwind, Firebase, Android studio"
+              "Bootstrap, React, React Native, Firebase
             }
             color="rgba(252, 166, 31, 0.45)"
           />
